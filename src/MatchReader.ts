@@ -1,5 +1,5 @@
 import { MatchResult } from "./MatchResults";
-import { DataReader } from "./DataReader";
+import { DataReader } from "./dataReaders/DataReader";
 import { dateStringToDate } from "./utils";
 import { MatchData } from "./MatchData";
 
